@@ -1,4 +1,4 @@
-ahis example demonstrates how to import JUnit and Cobertura reports.
+This example demonstrates how to import JUnit and Cobertura reports.
 
 Prerequisites
 =============
