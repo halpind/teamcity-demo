@@ -8,6 +8,8 @@ public class One {
   }
 
   public void uncoveredMethod() {
-    System.out.println(foo());
+    for (int i = 0; i < 10; i++) {
+    	;
+    }
   }
 }
